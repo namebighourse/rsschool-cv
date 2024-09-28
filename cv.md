@@ -1,3 +1,3 @@
-<html>
-  <lang ="eng" ></lang>
+<!doctype html>
+  <lang="eng">
 </html>
